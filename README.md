@@ -1,36 +1,262 @@
-<h1 align="center">Hi 👋, I'm ⚡ Kapil Yadav</h1>
-<h3 align="center">CSE Student | Cybersecurity Enthusiast | Full-Stack Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilrao2007-dotcom&label=Profile%20views&color=0e75b6&style=flat" alt="kapilrao2007-dotcom" /> </p>
+# 👋 Hi, I'm **Kapil Yadav** ⚡
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapilrao2007-dotcom" alt="kapilrao2007-dotcom" /></a> </p>
+### CSE Student • Cybersecurity Enthusiast • Full-Stack Developer
 
-- 🔭 I’m currently working on [Servora](https://servora-project.onrender.com)
-
-- 🌱 I’m currently learning **Cybersecurity, Networking & Web Security**
-
-- 👯 I’m looking to collaborate on **Full-Stack & Cybersecurity Projects**
-
-- 🤝 I’m looking for help with **Cybersecurity & Networking**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kapilrao2007-dotcom?tab=repositories](https://github.com/kapilrao2007-dotcom?tab=repositories)
-
-- 💬 Ask me about **Web Security & Cybersecurity Fundamentals, Full-Stack Development**
-
-- 📫 How to reach me **kapilrao2007@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kapil-yadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kapil-yadav/" height="30" width="40" /></a>
-<a href="https://instagram.com/kapil_yaduvanshi____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kapil_yaduvanshi____" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kapil_yadav___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kapil_yadav___" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kapilrao2007-dotcom&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/kapilrao2007-dotcom?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/kapilrao2007-dotcom">
+    <img src="https://img.shields.io/github/stars/kapilrao2007-dotcom?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/kapilrao2007-dotcom?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapilrao2007-dotcom&show_icons=true&locale=en&layout=compact" alt="kapilrao2007-dotcom" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapilrao2007-dotcom&show_icons=true&locale=en" alt="kapilrao2007-dotcom" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilrao2007-dotcom&" alt="kapilrao2007-dotcom" /></p>
+## 🧑‍💻 About Me
+
+I'm a **Computer Science Engineering student** passionate about **Cybersecurity, Full-Stack Development, Web Security, and Networking**.
+
+I enjoy building practical projects that solve real-world problems while continuously improving my programming, security, and problem-solving skills.
+
+```text
+💻 Full-Stack Development
+🔐 Cybersecurity & Web Security
+🌐 Networking
+🐍 Python Development
+⚙️ Backend & APIs
+🗄️ Database Management
+🚀 Real-World Projects
+🧠 Problem Solving
+```
+
+---
+
+## 🎯 What I'm Currently Doing
+
+* 🔭 Working on **[Servora](https://servora-project.onrender.com)**
+* 🌱 Learning **Cybersecurity, Networking & Web Security**
+* 💻 Improving my **Full-Stack Development** skills
+* 🧠 Practicing **DSA & Problem Solving**
+* 🔐 Exploring **Web Security & Secure Application Development**
+* 👯 Looking to collaborate on **Full-Stack & Cybersecurity Projects**
+* 🤝 Open to learning from developers and security enthusiasts
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://servora-project.onrender.com">
+
+<img src="https://img.shields.io/badge/🚀%20SERVORA-Live%20Project-0e75b6?style=for-the-badge" />
+
+</a>
+
+</div>
+
+### ⚡ Servora
+
+A real-world **Full-Stack Web Application** currently under development.
+
+**Focus Areas**
+
+* 🔐 Authentication & Authorization
+* 🌐 Frontend Development
+* ⚙️ Backend APIs
+* 🗄️ Database Management
+* 🛡️ Security
+* 📱 Responsive Design
+
+**Tech Stack**
+
+`React` `JavaScript` `Node.js` `MongoDB`
+
+🌐 **Live:** https://servora-project.onrender.com
+
+---
+
+## ⭐ More Projects
+
+<div align="center">
+
+<a href="https://github.com/kapilrao2007-dotcom?tab=repositories">
+  <img src="https://img.shields.io/badge/📂%20View%20All%20Repositories-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+> 🚀 More projects are continuously being added as I learn and build.
+
+---
+
+# 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
+</p>
+
+### 🌐 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase" />
+</p>
+
+### 🔐 Cybersecurity & Systems
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
+</p>
+
+### 🔧 Other Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=arduino,androidstudio" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kapilrao2007-dotcom&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilrao2007-dotcom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=kapilrao2007-dotcom&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilrao2007-dotcom&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kapilrao2007-dotcom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 🐍 My Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kapilrao2007-dotcom/kapilrao2007-dotcom/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+|   🔐 Cybersecurity   |     🌐 Networking    | 💻 Full-Stack |
+| :------------------: | :------------------: | :-----------: |
+|     Web Security     | Network Fundamentals |     React     |
+|     Secure Coding    |       Protocols      |    Node.js    |
+|    Authentication    |   Network Security   |   REST APIs   |
+| Vulnerability Basics |   Linux Networking   |    MongoDB    |
+
+</div>
+
+---
+
+# 💡 My Development Goals
+
+```text
+2026 → Build More Real-World Projects 🚀
+       ↓
+     Improve Full-Stack Development 💻
+       ↓
+     Learn Advanced Cybersecurity 🔐
+       ↓
+     Strengthen DSA & Problem Solving 🧠
+       ↓
+     Build Security-Focused Applications 🛡️
+       ↓
+     Become a Strong Full-Stack + Cybersecurity Developer ⚡
+```
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kapil-yadav/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Kapil%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/kapil_yaduvanshi____" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-kapil__yaduvanshi____-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/kapil_yadav___" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-kapil__yadav___-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="mailto:kapilrao2007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-kapilrao2007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 💬 Ask Me About
+
+<p align="center">
+
+`Cybersecurity` • `Web Security` • `Full-Stack Development` • `Python` • `JavaScript` • `React` • `Node.js` • `MongoDB` • `Networking` • `Git & GitHub`
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Code • Secure • Build • Repeat
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer" />
+
+</div>
