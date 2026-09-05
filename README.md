@@ -59,9 +59,9 @@ I love building real-world applications, solving problems through code, and cont
 
 🛡️ Featured Flagship Project
 
-##  Servora — Local Services Platform
+##  🛠️ Servora — Local Services Platform
 
-A real-world platform designed to help farmers access useful information and digital assistance.
+A hyperlocal home-services marketplace connecting customers with verified professionals — from booking to payment to reviews, end-to-end.
 
 ### 🔥 Live Project
 
