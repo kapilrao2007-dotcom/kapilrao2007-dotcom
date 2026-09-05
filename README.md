@@ -41,15 +41,37 @@ I enjoy building practical projects that solve real-world problems while continu
 
 ---
 
-## 🎯 What I'm Currently Doing
+# 🛠️ Technologies & Tools
 
-* 🔭 Working on **[Servora](https://servora-project.onrender.com)**
-* 🌱 Learning **Cybersecurity, Networking & Web Security**
-* 💻 Improving my **Full-Stack Development** skills
-* 🧠 Practicing **DSA & Problem Solving**
-* 🔐 Exploring **Web Security & Secure Application Development**
-* 👯 Looking to collaborate on **Full-Stack & Cybersecurity Projects**
-* 🤝 Open to learning from developers and security enthusiasts
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
+</p>
+
+### 🌐 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase" />
+</p>
+
+### 🔐 Cybersecurity & Systems
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
+</p>
+
+### 🔧 Other Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=arduino,androidstudio" />
+</p>
 
 ---
 
@@ -86,6 +108,18 @@ A real-world **Full-Stack Web Application** currently under development.
 
 ---
 
+## 🎯 What I'm Currently Doing
+
+* 🔭 Working on **[Servora](https://servora-project.onrender.com)**
+* 🌱 Learning **Cybersecurity, Networking & Web Security**
+* 💻 Improving my **Full-Stack Development** skills
+* 🧠 Practicing **DSA & Problem Solving**
+* 🔐 Exploring **Web Security & Secure Application Development**
+* 👯 Looking to collaborate on **Full-Stack & Cybersecurity Projects**
+* 🤝 Open to learning from developers and security enthusiasts
+
+---
+
 ## ⭐ More Projects
 
 <div align="center">
@@ -97,91 +131,6 @@ A real-world **Full-Stack Web Application** currently under development.
 </div>
 
 > 🚀 More projects are continuously being added as I learn and build.
-
----
-
-# 🛠️ Technologies & Tools
-
-### 💻 Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
-</p>
-
-### 🌐 Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma" />
-</p>
-
-### ⚙️ Backend & Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase" />
-</p>
-
-### 🔐 Cybersecurity & Systems
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
-</p>
-
-### 🔧 Other Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,androidstudio" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kapilrao2007-dotcom&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilrao2007-dotcom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilrao2007-dotcom&theme=tokyo-night&hide_border=true&area=true&custom_title=Kapil%20Yadav%27s%20Contribution%20Activity" width="95%" alt="GitHub Contribution Activity Graph"/>
-
-</div>
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilrao2007-dotcom&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kapilrao2007-dotcom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="95%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-# 🐍 My Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kapilrao2007-dotcom/kapilrao2007-dotcom/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
 
 ---
 
