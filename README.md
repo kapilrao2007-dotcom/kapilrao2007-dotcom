@@ -1,27 +1,38 @@
 <div align="center">
 
-# 👋 Hi, I'm **Kapil Yadav** ⚡
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED INTRO                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 💻 CSE Student | 🔐 Cybersecurity Enthusiast | 🌐 Full-Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Kapil+Yadav+%F0%9F%91%8B;Kapil+Yadav+%7C+Cybersecurity+%F0%9F%94%90;Kapil+Yadav+%7C+Full-Stack+Developer+%F0%9F%92%BB;Kapil+Yadav+%7C+Building+Something+Awesome+%F0%9F%9A%80" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=kapilrao2007-dotcom&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
+<br>
 
-<p>
-  <a href="https://github.com/kapilrao2007-dotcom">
-    <img src="https://img.shields.io/github/followers/kapilrao2007-dotcom?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
-  </a>
-  <a href="https://github.com/kapilrao2007-dotcom?tab=repositories">
-    <img src="https://img.shields.io/github/stars/kapilrao2007-dotcom?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&lines=%F0%9F%92%BB+CSE+Student+%7C+%F0%9F%94%90+Cybersecurity+Enthusiast+%7C+%F0%9F%8C%90+Full-Stack+Developer;Code+%E2%80%A2+Secure+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat+%E2%9A%A1" />
+
+<br><br>
+
+<!-- PROFILE VIEWS -->
+
+<img src="https://komarev.com/ghpvc/?username=kapilrao2007-dotcom&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+
+<br><br>
+
+<!-- FOLLOWERS & STARS -->
+
+<a href="https://github.com/kapilrao2007-dotcom">
+<img src="https://img.shields.io/github/followers/kapilrao2007-dotcom?label=FOLLOWERS&style=for-the-badge&logo=github&color=236ad3" />
+</a>
+
+<a href="https://github.com/kapilrao2007-dotcom">
+<img src="https://img.shields.io/github/stars/kapilrao2007-dotcom?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=f5c542" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm a **Computer Science Engineering student** passionate about **Cybersecurity, Full-Stack Development, Web Security, and Networking**.
 
@@ -36,96 +47,61 @@ I love building real-world applications, solving problems through code, and cont
 
 ---
 
-## 🎯 What I'm Currently Doing
+# 🚀 What I'm Currently Doing
 
-- 🔭 Working on **[Servora](https://servora-project.onrender.com)**
-- 🌱 Learning **Cybersecurity, Networking & Web Security**
-- 💻 Improving my **Full-Stack Development** skills
-- 🧠 Practicing **DSA & Problem Solving**
-- 🔐 Exploring **Secure Application Development**
-- 👯 Looking to collaborate on **Full-Stack & Cybersecurity Projects**
+- 🔭 Working on **real-world Full-Stack projects**
+- 🌱 Learning **Advanced Web Development & Cybersecurity**
+- 🛡️ Exploring **Web Security, Networking & Ethical Hacking**
+- 💻 Improving my **DSA & Problem Solving**
+- 🚀 Building and deploying projects
 
 ---
 
-# 🚀 Featured Project
+# 🌾 Featured Project
 
-<div align="center">
+## 🌱 Servora — Farmer Assistance Platform
+
+A real-world platform designed to help farmers access useful information and digital assistance.
+
+### 🔥 Live Project
 
 <a href="https://servora-project.onrender.com">
-
-<img src="https://img.shields.io/badge/🚀%20SERVORA-LIVE%20PROJECT-0e75b6?style=for-the-badge" alt="Servora"/>
-
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Servora-00C853?style=for-the-badge" />
 </a>
 
-</div>
+### 🛠️ Technologies
 
-### ⚡ Servora
-
-A real-world **Full-Stack Web Application** currently under development.
-
-### 🔥 Features & Focus
-
-- 🔐 Authentication & Authorization
-- 🌐 Modern Frontend
-- ⚙️ Backend APIs
-- 🗄️ Database Management
-- 🛡️ Web Security
-- 📱 Responsive Design
-
-### 🛠️ Tech Used
-
-`React` `JavaScript` `Node.js` `MongoDB`
-
-🌐 **Live Project:**  
-https://servora-project.onrender.com
+`HTML` `CSS` `JavaScript` `Node.js` `MongoDB`
 
 ---
 
-# 📂 My Projects
+# 🧰 Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/kapilrao2007-dotcom?tab=repositories">
+### 💻 Languages
 
-<img src="https://img.shields.io/badge/📂%20VIEW%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github" alt="All Projects"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js" />
 
-</a>
+<br><br>
+
+### 🌐 Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+
+<br><br>
+
+### 🗄️ Database & Backend
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+
+<br><br>
+
+### ⚙️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,arduino,figma" />
 
 </div>
-
----
-
-# 🛠️ Languages & Tools
-
-### 💻 Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" alt="Programming Languages"/>
-</p>
-
-### 🌐 Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma" alt="Frontend"/>
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase" alt="Backend and Database"/>
-</p>
-
-### 🔐 Cybersecurity & Systems
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github" alt="Cybersecurity and Systems"/>
-</p>
-
-### 🔧 Other Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,androidstudio" alt="Other Tools"/>
-</p>
 
 ---
 
@@ -133,23 +109,23 @@ https://servora-project.onrender.com
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapilrao2007-dotcom&theme=github_dark" width="95%" alt="GitHub Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapilrao2007-dotcom&theme=github_dark" />
 
-<br><br>
+<br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilrao2007-dotcom&theme=github_dark" height="180" alt="GitHub Statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilrao2007-dotcom&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapilrao2007-dotcom&theme=github_dark" height="180" alt="Repositories Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapilrao2007-dotcom&theme=github_dark" />
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=kapilrao2007-dotcom&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com/?user=kapilrao2007-dotcom&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -159,7 +135,7 @@ https://servora-project.onrender.com
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilrao2007-dotcom&theme=tokyo-night&hide_border=true&area=true&custom_title=Kapil%20Yadav%27s%20Contribution%20Activity" width="95%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilrao2007-dotcom&theme=tokyo-night&hide_border=true&area=true&custom_title=Kapil%20Yadav%27s%20Contribution%20Activity" />
 
 </div>
 
@@ -169,7 +145,7 @@ https://servora-project.onrender.com
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kapilrao2007-dotcom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="95%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kapilrao2007-dotcom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
 
 </div>
 
@@ -179,44 +155,34 @@ https://servora-project.onrender.com
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kapilrao2007-dotcom/kapilrao2007-dotcom/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kapilrao2007-dotcom/kapilrao2007-dotcom/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/kapilrao2007-dotcom/kapilrao2007-dotcom/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</picture>
+<img src="https://raw.githubusercontent.com/kapilrao2007-dotcom/kapilrao2007-dotcom/output/github-contribution-grid-snake.svg" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/kapilrao2007-dotcom/kapilrao2007-dotcom/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-# 📚 Currently Learning
+# 📌 My Projects
 
 <div align="center">
 
-| 🔐 Cybersecurity | 🌐 Networking | 💻 Full-Stack |
-|:---:|:---:|:---:|
-| Web Security | Network Fundamentals | React |
-| Secure Coding | Network Protocols | Node.js |
-| Authentication | Network Security | REST APIs |
-| Vulnerability Basics | Linux Networking | MongoDB |
+<a href="https://github.com/kapilrao2007-dotcom?tab=repositories">
+<img src="https://img.shields.io/badge/🚀%20Explore%20My%20Repositories-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
 ---
 
-# 🎯 My Goals
+# 🎯 Goals
 
 ```text
-🚀 Build Real-World Projects
-          ↓
-💻 Improve Full-Stack Development
-          ↓
-🔐 Learn Advanced Cybersecurity
-          ↓
-🌐 Strengthen Networking Knowledge
-          ↓
-🧠 Improve DSA & Problem Solving
-          ↓
-🛡️ Build Security-Focused Applications
-          ↓
-⚡ Become a Strong Full-Stack + Cybersecurity Developer
+💻 Become a strong Full-Stack Developer
+🔐 Build expertise in Cybersecurity
+🌐 Develop secure & scalable applications
+🧠 Master Data Structures & Algorithms
+🚀 Build impactful real-world projects
+🤝 Contribute to Open Source
