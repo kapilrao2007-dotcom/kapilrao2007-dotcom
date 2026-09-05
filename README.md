@@ -57,9 +57,9 @@ I love building real-world applications, solving problems through code, and cont
 
 ---
 
-# 🌾 Featured Project
+🛡️ Featured Flagship Project
 
-## 🌱 Servora — Farmer Assistance Platform
+##  Servora — Local Services Platform
 
 A real-world platform designed to help farmers access useful information and digital assistance.
 
