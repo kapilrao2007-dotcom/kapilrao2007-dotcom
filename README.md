@@ -134,26 +134,25 @@ A real-world **Full-Stack Web Application** currently under development.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kapilrao2007-dotcom&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=kapilrao2007-dotcom&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilrao2007-dotcom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilrao2007-dotcom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=kapilrao2007-dotcom&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilrao2007-dotcom&theme=tokyo-night&hide_border=true&area=true&custom_title=Kapil%20Yadav%27s%20Contribution%20Activity" width="95%" alt="GitHub Contribution Activity Graph"/>
 
 </div>
-
 ---
 
 # 📈 Contribution Activity
@@ -166,11 +165,11 @@ A real-world **Full-Stack Web Application** currently under development.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kapilrao2007-dotcom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kapilrao2007-dotcom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
